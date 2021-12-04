@@ -1,34 +1,82 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![github-explorer-banner](https://user-images.githubusercontent.com/74930052/135010351-346767be-38f5-4220-aada-2a86096bd030.png)
 
-## Getting Started
+----
+<img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/>
 
-First, run the development server:
+### Change language: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEeng.md" target="_blank">🇺🇸</a> 
 
-```bash
-npm run dev
-# or
-yarn dev
+### Cambiar idioma: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEsp.md" target="_blank">🇪🇸</a> 
+
+### Aplicação: 
+![image](https://user-images.githubusercontent.com/94902491/143624784-7dfa345b-6b53-4856-9ee2-4bd82b8d265f.png)
+
+### Instalação
+
+```
+# abra seu terminal / cmd e clone este repositório
+
+git clone https://github.com/leon-carvalho/github-explorer.git
+
+# acessar pasta github-explorer
+
+cd github-explorer
+
+# instale dependências usando seu gerenciador de pacotes favorito
+
+yarn
+# ou com NPM usando npm install
+npm install
+
+# rodar o app
+
+yarn start
+#o con NPM
+npm run start
+
+# A aplicação irá abrir na porta "http://localhost:3000" 🎉🎉🎉
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<p align="center">Este projeto faz parte do Ignite da RocketSeat<a href="https://www.rocketseat.com.br/ignite" target='_blank'> Aqui </a> </p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<p align="center">
+ <a href="#Objective">Objetivo</a> •
+ <a href="#Features">Features</a> • 
+ <a href="#Technology">Tecnologia</a> •
+ <a href="#License">Licença</a> • 
+ <a href="#Author">Autor</a>
+</p>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Objetivo
+Nesse repositório guardo todas as anotações, materiais e projetos que foram realizados no curso. 
 
-## Learn More
+### Features
 
-To learn more about Next.js, take a look at the following resources:
+- [x] Estrutura do ambiente
+- [x] Componentes e páginas
+- [x] Integração com API
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Tecnologia
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+As seguintes ferramentas foram usadas na construção do projeto:
 
-## Deploy on Vercel
+- [Discover](https://app.rocketseat.com.br/discover)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Next.js](https://nextjs.org/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+MIT License ©
+
+### Autora
+---
+
+<a href="https://nycole-xavierr.medium.com/">
+<img style="border-radius: 15%;" src="assets/eu-em-azul.jpeg" width="100px;" alt=""/>
+<br />
+<sub><b>Nycole Xavier</b></sub></a> <a href="https://nycole-xavierr.medium.com/" title="Medium">👩‍💻</a>
+
+<p>Feito com ❤️ por Nycole Xavier 👋🏽 Entre em contato!</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-NycoleXavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nycole-xavier-641271202/)](https://www.linkedin.com/in/nycole-xavier-641271202/)
