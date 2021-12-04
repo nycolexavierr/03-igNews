@@ -1,5 +1,4 @@
-![github-explorer-banner](https://user-images.githubusercontent.com/74930052/135010351-346767be-38f5-4220-aada-2a86096bd030.png)
-
+![banner escrito ig news](https://user-images.githubusercontent.com/94902491/144710200-c837f707-5da0-4af6-9516-45f7927acf6d.png)
 ----
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/>
 
