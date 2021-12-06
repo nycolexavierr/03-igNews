@@ -52,9 +52,9 @@ Nesse repositório guardo todas as anotações, materiais e projetos que foram r
 
 ### Features
 
-- [x] Estrutura do ambiente
-- [x] Componentes e páginas
-- [x] Integração com API
+- [x] Fundamentos do Next.js
+- [x] Back-end no front-end
+- [x] Front-end JAMStack
 
 ### Tecnologia
 
